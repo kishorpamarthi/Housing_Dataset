@@ -87,7 +87,7 @@ The dataset is well-prepared for:
 
 ## 📦 Requirements
 Dependencies used in the project:
-pandas
-numpy
-matplotlib
+pandas,
+numpy,
+matplotlib,
 seaborn
